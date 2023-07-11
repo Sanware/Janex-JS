@@ -233,3 +233,5 @@ class IntentMatcher {
 };
 
 module.exports = IntentMatcher;
+
+console.log("Janex.js imported.");

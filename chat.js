@@ -10,8 +10,6 @@ const rl = readline.createInterface({
 });
 
 rl.question("You: ", (input) => {
-  // Use the input here
-  console.log("User input:", input);
 
   // Close the readline interface
   rl.close();
